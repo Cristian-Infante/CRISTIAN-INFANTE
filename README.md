@@ -1,4 +1,6 @@
-# Welcome to My GitHub Profile!
+<p align="center">
+  # Welcome to My GitHub Profile!
+</p>
 
 ## About Me
 
@@ -49,3 +51,8 @@ I've delved into the world of cross-platform mobile application development usin
 I'm excited to collaborate, learn, and contribute to the vibrant GitHub community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cristian-fabian-infante-canelo/). Let's create some remarkable projects together!
 
 Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's make the digital world a better place, one line of code at a time! 🚀
+
+##
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
