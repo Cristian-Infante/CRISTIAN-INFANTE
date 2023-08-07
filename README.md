@@ -33,6 +33,8 @@ I've delved into the world of cross-platform mobile application development usin
 - **Mobile**: React Native (iOS & Android)
 - **Server**: ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 - **Version Control**: Git
+- ![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=git)
+
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
