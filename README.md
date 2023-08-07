@@ -51,8 +51,9 @@ I'm excited to collaborate, learn, and contribute to the vibrant GitHub communit
 Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's make the digital world a better place, one line of code at a time! 🚀
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
----
-[![](https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<div aling="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
+  [![](https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+</div>
 
