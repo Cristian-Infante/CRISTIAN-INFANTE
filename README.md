@@ -34,17 +34,17 @@ I've delved into the world of cross-platform mobile application development usin
 - **Backend**: Java EE, Spring Framework, Hibernate </br>
 - **Mobile**: React Native (iOS & Android) </br>
 - **Server**: </br>
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
 - **Version Control**: Git </br>
 <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square"> <img src="https://img.shields.io/badge/-Git-4c4a4b.svg?logo=git&style=flat-square">
 
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) 
