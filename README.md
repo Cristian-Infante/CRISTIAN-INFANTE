@@ -29,7 +29,7 @@ I've delved into the world of cross-platform mobile application development usin
 
 - **Languages**: </br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 - **Frontend**: React, Redux, HTML5, CSS3 </br>
 - **Backend**: Java EE, Spring Framework, Hibernate </br>
 - **Mobile**: React Native (iOS & Android) </br>
