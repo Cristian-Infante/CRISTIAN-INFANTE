@@ -57,7 +57,7 @@ Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" />
 </br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=black&icon=5&pretty=true" alt="Profile Views" />
+    <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views" />
   </a>
 </div>
 
