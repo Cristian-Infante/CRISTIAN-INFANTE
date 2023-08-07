@@ -12,7 +12,7 @@ Hey there! I'm Cristian, a passionate web developer and enthusiastic systems eng
 ## 💼 Technical Development Expertise
 | Backend | Frontend | Mobile |
 | --- | --- | --- |
-| When it comes to backend development, I'm your go-to person. My proficiency in Java shines through as I leverage the Spring Framework, Hibernate, and Java EE to build scalable and efficient applications. I specialize in crafting RESTful services and APIs that seamlessly integrate with frontend interfaces. | Creating immersive and visually appealing user interfaces is my forte. With an arsenal of skills encompassing React, Redux, HTML5, CSS3, and JavaScript, I transform concepts into modern, responsive, and user-friendly designs that captivate and engage users. | I've delved into the world of cross-platform mobile application development using React Native. By capitalizing on code reusability, I've successfully developed captivating applications for both iOS and Android platforms, delivering a seamless and native user experience. |
+| I specialize in backend development, showcasing my Java proficiency. Leveraging Spring Framework, Hibernate, and Java EE, I craft scalable and efficient applications. My focus centers on creating seamless integration between RESTful services and frontend interfaces. | Crafting immersive and visually appealing user interfaces is my strong suit. With expertise in React, Redux, HTML5, CSS3, and JavaScript, I bring concepts to life through modern, responsive, and user-friendly designs that captivate and engage users. | I've delved into cross-platform mobile application development using React Native. Leveraging code reusability, I've successfully developed captivating applications for both iOS and Android platforms, providing a seamless and native user experience. |
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -28,9 +28,7 @@ Hey there! I'm Cristian, a passionate web developer and enthusiastic systems eng
 - **Persistence and Proactivity**: I am relentless in pursuing my goals, never shying away from challenges and always taking the initiative.
 
 ## 📬 Let's Connect!
-I'm excited to collaborate, learn, and contribute to the vibrant GitHub community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cristian-fabian-infante-canelo/). Let's create some remarkable projects together!
-
-Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's make the digital world a better place, one line of code at a time! 🚀
+I'm excited to collaborate, learn, and contribute to the vibrant GitHub community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cristian-fabian-infante-canelo/).
 
 ## 📊 GitHub Stats:
 <div align="center">
