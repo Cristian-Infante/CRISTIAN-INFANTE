@@ -52,8 +52,10 @@ Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's m
 
 ## 📊 GitHub Stats:
 <div aling="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
-  [![](https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=black&icon=5&pretty=true" alt="Profile Views" />
+  </a>
 </div>
 
