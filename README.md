@@ -33,8 +33,8 @@ I'm excited to collaborate, learn, and contribute to the vibrant GitHub communit
 ## 📊 GitHub Stats:
 <div align="center">
   <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;">
   </div>
   <br>
   <a href="https://visitcount.itsvg.in">
