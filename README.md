@@ -1,4 +1,4 @@
-#Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ## About Me
 Hey there! I'm Cristian, a passionate web developer and enthusiastic systems engineering student. I bring a unique blend of technical prowess, analytical acumen, and a collaborative spirit to every project I undertake. With a penchant for self-improvement and a hunger for knowledge, I thrive in the ever-evolving landscape of software development.
@@ -21,7 +21,6 @@ Hey there! I'm Cristian, a passionate web developer and enthusiastic systems eng
 
 </div>
 
-
 ## 🌟 What Sets Me Apart
 - **Analytical Mindset**: My strong analytical skills enable me to dissect complex problems and devise effective solutions.
 - **Collaborative Attitude**: I thrive in team environments, fostering open communication, and valuing diverse perspectives.
@@ -35,12 +34,13 @@ Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's m
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;">
   </div>
   <br>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">
   </a>
 </div>
+
