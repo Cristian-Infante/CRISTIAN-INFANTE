@@ -21,9 +21,6 @@ Hey there! I'm Cristian, a passionate web developer and enthusiastic systems eng
 
 </div>
 
-## 📬 Let's Connect!
-I'm excited to collaborate, learn, and contribute to the GitHub community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cristian-fabian-infante-canelo/), [Instagram](https://www.instagram.com/infante_cristian/), or [Twitter](https://twitter.com/cinfantecanelo).
-
 ## 📊 GitHub Stats:
 <div align="center">
   <div style="display: flex; align-items: center;">
