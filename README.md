@@ -36,8 +36,9 @@ I've delved into the world of cross-platform mobile application development usin
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 - **Backend**: Java EE, Spring Framework, Hibernate </br>
-![Java EE](https://img.shields.io/badge/Java%20EE-%20Enterprise%20Edition-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java%20EE-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate%20Framework-%237873B7.svg?style=flat-square&logo=hibernate&logoColor=white)
 - **Mobile**: </br>
 ![React Native](https://img.shields.io/badge/React%20Native-IOs%20&%20Android-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 - **Server**: </br>
