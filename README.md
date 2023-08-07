@@ -32,13 +32,10 @@ I've delved into the world of cross-platform mobile application development usin
 - **Backend**: Java EE, Spring Framework, Hibernate
 - **Mobile**: React Native (iOS & Android)
 - **Server**: ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-- **Version Control**: Git
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square">
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square">
+- **Version Control**: Git <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square"> <img src="https://img.shields.io/badge/-Git-4c4a4b.svg?logo=git&style=flat-square">
 <img src="https://img.shields.io/badge/-Javascript-4c4a4b.svg?logo=javascript&style=flat-square">
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat-square">
 <img src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=flat-square">
-<img src="https://img.shields.io/badge/-Git-4c4a4b.svg?logo=git&style=flat-square">
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
