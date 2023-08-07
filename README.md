@@ -21,12 +21,6 @@ Hey there! I'm Cristian, a passionate web developer and enthusiastic systems eng
 
 </div>
 
-## 🌟 What Sets Me Apart
-- **Analytical Mindset**: My strong analytical skills enable me to dissect complex problems and devise effective solutions.
-- **Collaborative Attitude**: I thrive in team environments, fostering open communication, and valuing diverse perspectives.
-- **Continuous Learning**: I embrace new challenges and technologies, constantly evolving to stay ahead in the dynamic world of software development.
-- **Persistence and Proactivity**: I am relentless in pursuing my goals, never shying away from challenges and always taking the initiative.
-
 ## 📬 Let's Connect!
 I'm excited to collaborate, learn, and contribute to the GitHub community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cristian-fabian-infante-canelo/), [Instagram](https://www.instagram.com/infante_cristian/), or [Twitter](https://twitter.com/cinfantecanelo).
 
