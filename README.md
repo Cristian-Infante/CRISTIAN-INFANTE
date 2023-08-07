@@ -46,6 +46,6 @@ I've delved into the world of cross-platform mobile application development usin
 
 ## 📬 Let's Connect!
 
-I'm excited to collaborate, learn, and contribute to the vibrant GitHub community. Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/cristian-fabian-infante-canelo/). Let's create some remarkable projects together!
+I'm excited to collaborate, learn, and contribute to the vibrant GitHub community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cristian-fabian-infante-canelo/). Let's create some remarkable projects together!
 
 Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's make the digital world a better place, one line of code at a time! 🚀
