@@ -1,6 +1,8 @@
-<p align="center" style="font-size: 2.5rem; font-weight: 700;">
-  Welcome to My GitHub Profile!
-</p>
+<div align="center">
+  <p style="font-size: 2.5rem; font-weight: 700;">
+    Welcome to My GitHub Profile!
+  </p>
+</div>
 
 ## About Me
 
