@@ -39,7 +39,7 @@ I've delved into the world of cross-platform mobile application development usin
 <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square"> <img src="https://img.shields.io/badge/-Git-4c4a4b.svg?logo=git&style=flat-square">
 
 
-![React](https://img.shields.io/badge/React+Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 
 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
