@@ -1,8 +1,4 @@
-<div align="center">
-  <p style="font-size: 2.5rem; font-weight: 700;">
-    Welcome to My GitHub Profile!
-  </p>
-</div>
+#Welcome to My GitHub Profile!
 
 ## About Me
 
@@ -54,7 +50,11 @@ I'm excited to collaborate, learn, and contribute to the vibrant GitHub communit
 
 Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's make the digital world a better place, one line of code at a time! 🚀
 
-##
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cristian-Infante&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
