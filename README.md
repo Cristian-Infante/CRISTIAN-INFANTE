@@ -35,15 +35,12 @@ Thank you for visiting my GitHub profile. Stay curious, keep coding, and let's m
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  </br>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Infante&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1;">
+  </div>
+  <br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views" />
+    <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">
   </a>
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=RubenU2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RubenU2002&theme=dark&hide_border=false" alt="Streak Stats"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenU2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
