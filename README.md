@@ -27,14 +27,17 @@ I've delved into the world of cross-platform mobile application development usin
 
 ## 🛠️ Tech Stack
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+- **Languages**: 
+<img src="https://img.shields.io/badge/-Javascript-4c4a4b.svg?logo=javascript&style=flat-square">
+<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat-square"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&style=flat-square"> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 - **Frontend**: React, Redux, HTML5, CSS3
 - **Backend**: Java EE, Spring Framework, Hibernate
 - **Mobile**: React Native (iOS & Android)
-- **Server**: ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-- **Version Control**: Git <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square"> <img src="https://img.shields.io/badge/-Git-4c4a4b.svg?logo=git&style=flat-square">
-<img src="https://img.shields.io/badge/-Javascript-4c4a4b.svg?logo=javascript&style=flat-square">
-<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat-square">
+- **Server**:
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+- **Version Control**: Git
+<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square"> <img src="https://img.shields.io/badge/-Git-4c4a4b.svg?logo=git&style=flat-square">
+
 <img src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=flat-square">
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
