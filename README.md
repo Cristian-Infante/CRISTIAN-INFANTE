@@ -1,5 +1,5 @@
-<p align="center">
-  # Welcome to My GitHub Profile!
+<p align="center" style="font-size: 2.5rem; font-weight: 700;">
+  Welcome to My GitHub Profile!
 </p>
 
 ## About Me
