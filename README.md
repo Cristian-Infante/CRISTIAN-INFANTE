@@ -28,7 +28,7 @@ Hey there! I'm Cristian, a passionate web developer and enthusiastic systems eng
 - **Persistence and Proactivity**: I am relentless in pursuing my goals, never shying away from challenges and always taking the initiative.
 
 ## 📬 Let's Connect!
-I'm excited to collaborate, learn, and contribute to the vibrant GitHub community. Feel free to reach out to me via <a href="https://www.linkedin.com/in/cristian-fabian-infante-canelo/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/infante_cristian/" target="_blank">Instagram</a>, or <a href="https://twitter.com/cinfantecanelo" target="_blank">Twitter</a>.
+I'm excited to collaborate, learn, and contribute to the GitHub community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cristian-fabian-infante-canelo/), [Instagram](https://www.instagram.com/infante_cristian/), or [Twitter](https://twitter.com/cinfantecanelo).
 
 ## 📊 GitHub Stats:
 <div align="center">
