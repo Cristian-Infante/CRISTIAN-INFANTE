@@ -29,7 +29,7 @@ Hey there! I'm Cristian, a passionate web developer and enthusiastic systems eng
   </div>
   <br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">
+    <img src="https://visitcount.itsvg.in/api?id=Cristian-Infante&label=Profile%20Views&color=12&icon=5&pretty=true" />
   </a>
 </div>
 
