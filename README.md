@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hey there! I'm Cristian, a passionate web developer and enthusiastic systems engineering student. I bring a unique blend of technical prowess, analytical acumen, and a collaborative spirit to every project I undertake. With a penchant for self-improvement and a hunger for knowledge, I thrive in the ever-evolving landscape of software development.
+Hey there! I'm Cristian, a passionate developer and enthusiastic systems engineering student. I bring a unique blend of technical prowess, analytical, and a collaborative spirit to every project I undertake. With a penchant for self-improvement and a hunger for knowledge, I thrive in the ever-evolving landscape of software development.
 
 ## Quick Overview
 - I’m currently honing my skills as a systems engineering student while actively contributing to the world of web development.
