@@ -12,7 +12,7 @@ Hey there! I'm Cristian, a passionate developer and enthusiastic systems enginee
 ## Technical Development Expertise
 | Backend | Frontend | Mobile |
 | --- | --- | --- |
-| I specialize in backend development, showcasing my Java, C# and Python proficiency. Leveraging Spring Framework, Hibernate, Java EE, .NET, Entity Framework and Django, I craft scalable and efficient applications. My focus centers on creating seamless integration between RESTful services and frontend interfaces. | Crafting immersive and visually appealing user interfaces is my strong suit. With expertise in React, Redux, HTML5, CSS3, and JavaScript, I bring concepts to life through modern, responsive, and user-friendly designs that captivate and engage users. | I've delved into cross-platform mobile application development using React Native. Leveraging code reusability, I've successfully developed captivating applications for both iOS and Android platforms, providing a seamless and native user experience. |
+| I specialize in backend development with a focus on C#, while also having experience in Java and Python. Using frameworks like .NET, Spring, and Django, I build scalable applications that seamlessly integrate RESTful services with frontends. | I create modern, responsive interfaces with React, Redux, HTML5, CSS3, and JavaScript, ensuring user-friendly designs. My frontend work supports the robust backend systems I develop. | I have experience in cross-platform mobile development with React Native, creating apps for iOS and Android that offer a native feel, though my primary focus remains on backend development. |
 
 ## Tech Stack
 <div align="center" style="pointer-events: none;">
